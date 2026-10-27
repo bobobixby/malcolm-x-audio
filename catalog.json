@@ -194,9 +194,25 @@
       "sha256": "1d9acea5f01073256d39133c1f617658c613a4134de3f81b8b68343477c66ddc",
       "bitrate_bps": 134566,
       "verification": "Full HTTPS download; complete MP3 decode without errors; one file. Not a claim that every minute of the historical event survives."
+    },
+    {
+      "title": "Not Just an American Problem, but a World Problem — Rochester (1965)",
+      "guid": "malcolm-x-rochester-world-problem-1965",
+      "recording_date": "1965-02-16",
+      "context": "Continuous Rochester address including the source narrator’s provenance introduction. Original AAC stream bytes preserved, not transcoded.",
+      "source": "https://www.mixcloud.com/boomtownpress/malcolm-x-1965-rochester-speech/",
+      "historical_context_source": "https://nationalhumanitiescenter.org/pds/maai3/community/text10/text10read.htm",
+      "audio_url": "https://github.com/bobobixby/malcolm-x-audio/releases/download/archival-audio/malcolm-x-rochester-1965.m4a",
+      "duration_seconds": 4610,
+      "size_bytes": 37677686,
+      "sha256": "27c7263eb580c1e3cd701ff8924feb67290eb41020af0a6036be15f3393a2674",
+      "codec": "aac",
+      "container": "m4a",
+      "bitrate_bps": 64000,
+      "verification": "Full download and complete decode without errors. Opening provenance identifies Rochester, February 16, 1965. Public repository release asset verified with a byte-range request and Overcast User-Agent."
     }
   ],
   "existing_episodes_preserved": 8,
-  "total_episodes": 23,
-  "new_audio_hours": 12.45
+  "total_episodes": 24,
+  "new_audio_hours": 13.73
 }

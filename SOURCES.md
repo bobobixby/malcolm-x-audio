@@ -2,7 +2,7 @@
 
 ## Selection
 
-The catalog follows Malcolm X from his Nation of Islam period through his independent political and international work. The original eight episodes are unchanged. Fifteen additions are each one continuous MP3. No speech was split into parts; familiar excerpts were excluded when extended recordings were available. Two short press events are labeled explicitly.
+The catalog follows Malcolm X from his Nation of Islam period through his independent political and international work. The original eight episodes are unchanged. The first fifteen additions are each one continuous MP3; the Rochester addition is one continuous AAC/M4A recording. No speech was split into parts; familiar excerpts were excluded when extended recordings were available. Two short press events are labeled explicitly.
 
 ## New recordings
 
@@ -26,7 +26,7 @@ The catalog follows Malcolm X from his Nation of Islam period through his indepe
 
 ## Audio sources and quality
 
-The Michigan State recording comes directly from the university archive. The other additions link to existing continuous MP3s in the [historical audio collection](https://cryptostream.tech/audio/EDU_Malcolm_X_Complete_7GB/). Audio is linked, not copied into GitHub.
+The Michigan State recording comes directly from the university archive. The other additions link to existing continuous MP3s in the [historical audio collection](https://cryptostream.tech/audio/EDU_Malcolm_X_Complete_7GB/). Those MP3s remain linked to their source hosts. The Rochester M4A is preserved as an unchanged file in a release in this dedicated repository, avoiding a dependency on a streaming-session URL.
 
 Compared with the heavily compressed alternative Internet Archive collection (some long speeches approximately 40–80 kbps), the selected copies are approximately 130–197 kbps, with the university recording at 160 kbps. Bitrate alone does not prove better source fidelity. No claim is made that these are the best surviving masters, and the recordings were not auditioned in full.
 
@@ -36,11 +36,14 @@ All 15 files were downloaded completely, inspected for codec and duration, and d
 
 Source filenames contain errors. The Ronald Stokes memorial filename says April 28, while UCLA documents May 5, 1962. Suffolk dates the Ford Hall lecture October 6, while the filename says October 10. Sources disagree between December 31 and January 1 for the Mississippi youth address. Embassy lecture dates also differ. These disagreements are disclosed in episode descriptions. The April 1964 Black Revolution copy runs 45:13; longer editions can contain additional discussion.
 
+## Rochester gap filled
+
+The 76:50 recording of Not Just an American Problem, but a World Problem (February 16, 1965) was retrieved from the public Mixcloud recording credited to Wilber Gilbert and Nick Love. It includes a source narrator’s provenance introduction. The complete AAC/M4A file was decoded without errors and published byte-for-byte as a GitHub release asset. A public byte-range request with Overcast’s User-Agent succeeded. Existing 23 episode blocks remain unchanged.
+
 ## Important remaining gaps
 
-- OAAU founding rally, June 28, 1964: located transcripts and short audiovisual excerpts, but no verified complete, stable podcast enclosure. Did not substitute the December rally or an ambiguously labeled compilation.
-- Not Just an American Problem, but a World Problem, Rochester, February 16, 1965: located a 76:50 Mixcloud stream, but no verified stable downloadable podcast enclosure. [Stream](https://www.mixcloud.com/boomtownpress/malcolm-x-1965-rochester-speech/).
-- London School of Economics, February 11, 1965: located a transcript, but no verified complete downloadable recording.
+- OAAU founding rally, June 28, 1964: NYU George Breitman Papers (TAM.169), Box 73, reel 169_0090, Track 1. The [finding aid](https://findingaids.library.nyu.edu/tamwag/tam_169/all/#aspace_d4cf49a2feb815f1ecdd46516313231a) marks its audio for reading-room use, with no public file link. The online 7:39 Malcolm X Files video is excerpted. The 84:39 Internet Archive file titled By Any Means Necessary was checked against its opening remarks and is the Detroit firebombing address, not this rally.
+- London School of Economics, February 1965: NYPL [catalog record b10420693](https://www.nypl.org/research/research-catalog/bib/b10420693), titled Interview with Malcolm X at The London School of Economics, duration 35:05; call number Sc Audio C-190 [Side 2]. Current catalog marks Use in library and provides no digital playback URL. This is a promising tape, but its relation to the February 11 lecture must be confirmed by staff. LSE’s own archivist reports that their archive has only a contemporary newspaper report.
 
 The catalog is a substantial curated collection, not a claim to contain every significant speech or every surviving recording.
 
